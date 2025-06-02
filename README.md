@@ -1,6 +1,6 @@
 ## Hello!! 🦕
-![A drawing of Velossoraptor; a girl with rabbit ears holding an icecream cone, with glasses and a bowtie](https://velossoraptor.github.io/wdd231/images/profile-picture.png)!
-I'm a coding student at BYU Idaho, currently working on a Software Development Bachelor's degree :)
+![A drawing of Velossoraptor; a girl with rabbit ears holding an icecream cone, with glasses and a bowtie](https://velossoraptor.github.io/wdd231/images/profile-picture.png)
+  I'm a coding student at BYU Idaho, currently working on a Software Development Bachelor's degree :)
 I love to code for games, websites, and applications. I'm also a hobby artist, you can find my work
 @Velossoraptor on instagram. I also dabble in big data management and cybersecurity!
 
